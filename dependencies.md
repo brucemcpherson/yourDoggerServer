@@ -1,5 +1,5 @@
 # Google Apps Script Project: yourDoggerServer
-This repo (yourDoggerServer) was automatically updated on 15 September 2015 11:48:35 BST by GasGit
+This repo (yourDoggerServer) was automatically updated on 28 September 2015 17:43:50 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project yourDoggerServer
@@ -33,8 +33,6 @@ cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|no|[here](libraries/cFlat
 yourCacheBucket| yourCacheBucket|MveRagx_AESQYZ7d3DtGFtiz3TLx7pV4j|1|no|[here](libraries/yourCacheBucket "library source")
 cDogger| cDogger|MTHTf2i92nJR3buW_ly6xpqi_d-phDA33|11|no|[here](libraries/cDogger "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
