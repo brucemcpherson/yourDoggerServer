@@ -1,0 +1,31 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "yourCacheBucket",
+      "libraryId": "1y4e_wxqNjMiq5DggWa1iunHW4YZU7pg97NlAuwWK50CXVxkRKATuX9kb",
+      "version": "1"
+    }, {
+      "userSymbol": "cDbAbstraction",
+      "libraryId": "1Ddsb4Y-QDUqcw9Fa-rJKM3EhG2caosS9Nhch7vnQWXP7qkaMmb1wjmTl",
+      "version": "37"
+    }, {
+      "userSymbol": "cDogger",
+      "libraryId": "1owbLsC_Y6i_J52qXfCL2E98H7i3e3jadAzwWqCwlAeTXa0Oc2QkJmWBb",
+      "version": "11"
+    }, {
+      "userSymbol": "cDriverScratch",
+      "libraryId": "1ka9ODRxrUKUOTnuv4CkL9QnBTjkrXQhP0yJF-R2wjVz-qVdEK9G2S9sH",
+      "version": "11"
+    }, {
+      "userSymbol": "cUseful",
+      "libraryId": "1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex",
+      "version": "25"
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
