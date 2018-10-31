@@ -1,5 +1,5 @@
 # Google Apps Script Project: yourDoggerServer
-This repo (yourDoggerServer) was automatically updated on 27 July 2016 10:34:41 BST by GasGit
+This repo (yourDoggerServer) was automatically updated on 31 October 2018 11:38:56 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project yourDoggerServer
@@ -10,29 +10,32 @@ The shared link for [yourDoggerServer is here](https://script.google.com/d/1n4FM
 *name*|*type*
 --- | --- 
 thingsToCustomize| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-cDogger| cDogger|MTHTf2i92nJR3buW_ly6xpqi_d-phDA33|11|no|[here](libraries/cDogger "library source")
-yourCacheBucket| yourCacheBucket|MveRagx_AESQYZ7d3DtGFtiz3TLx7pV4j|1|no|[here](libraries/yourCacheBucket "library source")
-cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
-cDriverScratch| cDriverScratch|MTnrkatWa6Lrta8eAg6_H0qi_d-phDA33|11|no|[here](libraries/cDriverScratch "library source")
+yourCacheBucket| yourCacheBucket|1y4e_wxqNjMiq5DggWa1iunHW4YZU7pg97NlAuwWK50CXVxkRKATuX9kb|1|no|[here](libraries/yourCacheBucket "library source")
+cDbAbstraction| cDbAbstraction|1Ddsb4Y-QDUqcw9Fa-rJKM3EhG2caosS9Nhch7vnQWXP7qkaMmb1wjmTl|37|no|[here](libraries/cDbAbstraction "library source")
+cDogger| cDogger|1owbLsC_Y6i_J52qXfCL2E98H7i3e3jadAzwWqCwlAeTXa0Oc2QkJmWBb|11|no|[here](libraries/cDogger "library source")
+cDriverScratch| cDriverScratch|1ka9ODRxrUKUOTnuv4CkL9QnBTjkrXQhP0yJF-R2wjVz-qVdEK9G2S9sH|11|no|[here](libraries/cDriverScratch "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|25|no|[here](libraries/cUseful "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
-cDogger| cDogger|MTHTf2i92nJR3buW_ly6xpqi_d-phDA33|11|no|[here](libraries/cDogger "library source")
-cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
-cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|9|no|[here](libraries/cFlatten "library source")
-cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|15|no|[here](libraries/cNamedLock "library source")
-cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|15|no|[here](libraries/cCacheHandler "library source")
-cUAMeasure| cUAMeasure|MIHfxr-fc_7bXa1l0Dkk0oqi_d-phDA33|6|no|[here](libraries/cUAMeasure "library source")
-cDriverScratch| cDriverScratch|MTnrkatWa6Lrta8eAg6_H0qi_d-phDA33|10|no|[here](libraries/cDriverScratch "library source")
-cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|11|no|[here](libraries/cDelegateMemory "library source")
-cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|11|no|[here](libraries/cDriverMemory "library source")
-yourCacheBucket| yourCacheBucket|MveRagx_AESQYZ7d3DtGFtiz3TLx7pV4j|1|no|[here](libraries/yourCacheBucket "library source")
+yourCacheBucket| yourCacheBucket|1y4e_wxqNjMiq5DggWa1iunHW4YZU7pg97NlAuwWK50CXVxkRKATuX9kb|1|no|[here](libraries/yourCacheBucket "library source")
+cDbAbstraction| cDbAbstraction|1Ddsb4Y-QDUqcw9Fa-rJKM3EhG2caosS9Nhch7vnQWXP7qkaMmb1wjmTl|37|no|[here](libraries/cDbAbstraction "library source")
+cFlatten| cFlatten|12actArnmhP0hZTQng9Ysav1ZA3xfrkm1JA024mxDx4x4MEcPlc8Y2YDY|9|no|[here](libraries/cFlatten "library source")
+cNamedLock| cNamedLock|1uNcsHIUpZOJIT_ZedTa2mBE_gqCo0mH5OrNJMk4NWdyCNHQfiQjYXZ6u|15|no|[here](libraries/cNamedLock "library source")
+cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|15|no|[here](libraries/cCacheHandler "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|32|no|[here](libraries/cUseful "library source")
+cUAMeasure| cUAMeasure|17gzIYCpQ_8jN8rR1mQ8POa5VS5C4TYTiDuEIlpEMQmRGe2S51MvKf2LO|6|no|[here](libraries/cUAMeasure "library source")
+cDogger| cDogger|1owbLsC_Y6i_J52qXfCL2E98H7i3e3jadAzwWqCwlAeTXa0Oc2QkJmWBb|11|no|[here](libraries/cDogger "library source")
+cDriverScratch| cDriverScratch|1ka9ODRxrUKUOTnuv4CkL9QnBTjkrXQhP0yJF-R2wjVz-qVdEK9G2S9sH|10|no|[here](libraries/cDriverScratch "library source")
+cDelegateMemory| cDelegateMemory|1vTqRouwf8VVyz9lSdqMBhfuqUM0po3GQCwfjbTlCqOKB2QjGAFbum0dL|12|no|[here](libraries/cDelegateMemory "library source")
+cDriverMemory| cDriverMemory|101pVFakzEfvHquUFOmZafAzfBAGSotgH56IqVcGmWNBu7J0sweklqyCB|12|no|[here](libraries/cDriverMemory "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
